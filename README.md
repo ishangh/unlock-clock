@@ -14,6 +14,10 @@ Update values in
 
 Change 
 <color name="colorPrimary">[#color code]</color>
+
+Build Apk in Android Studio
+
+Install Apk
 ```
 
 ## To install current version
